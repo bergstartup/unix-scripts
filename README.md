@@ -4,7 +4,7 @@ Customizing unix scripts for making life easier
 Few commands are coded to abstract repeated routines and a script to save todo.
 
 <br>
-#Capture
+# Capture
 <br>
 This command captures the set of scripts and save in a file, those scripts could be called via implement branch_name to get executed. Similar to defining a global shell function.
 <br>
